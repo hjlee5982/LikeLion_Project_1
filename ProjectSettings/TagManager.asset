@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Warrior
+  - Archer
+  - Mage
+  - Enemy
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Post Process
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1640312617
+    locked: 0
+  - name: Character
+    uniqueID: 1919741577
+    locked: 0
+  - name: Projectile
+    uniqueID: 370989271
+    locked: 0
+  - name: ObjectUI
+    uniqueID: 1162800937
+    locked: 0
+  m_RenderingLayers:
+  - Default
